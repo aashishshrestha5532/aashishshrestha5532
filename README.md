@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishshrestha5532&label=Views&color=brightgreen&style=plastic" alt="Ashish" /> </p>
 
 - 🔭 I’m currently working at [Machnet Technologies Inc](https://www.machnetinc.com/)
 - 🌱 I’m currently learning Block chain technologies
