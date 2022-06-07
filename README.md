@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishshrestha5532&label=Views&color=brightgreen&style=plastic" alt="Ashish" /> </p>
 
-- 🔭 I’m currently working at [Machnet Technologies Inc](https://www.machnetinc.com/)
+- 🔭 I’m currently working at [ESR Tech](https://www.esrtech.io/)
 - 🌱 I’m currently learning Block chain technologies
 - 🚲 I love travelling and coding
 - 📫 How to reach me: aashishshrestha5532@gmail.com
