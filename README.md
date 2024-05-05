@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishshrestha5532&label=Views&color=brightgreen&style=plastic" alt="Ashish" /> </p>
 
 - 🔭 I’m currently working at [EarlyBird Labs](https://earlybirdlabs.io/)
-- 🌱 I’m currently learning open.ai
+- 🌱 Author of react-native-swipeable-carousel
 - 🚲 I love travelling and coding
 - 📫 How to reach me: aashishshrestha5532@gmail.com
 
