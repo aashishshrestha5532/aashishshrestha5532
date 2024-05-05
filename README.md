@@ -25,7 +25,7 @@
 
 
 
-![Ashish Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishshrestha5532&show_icons=true&hide=["issues"]&theme=tokyonight)
+<!-- ![Ashish Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishshrestha5532&show_icons=true&hide=["issues"]&theme=tokyonight)
 
 <!-- ![Talank's github stats](https://github-readme-stats.vercel.app/api?username=talank&show_icons=true&theme=radical) -->
 
